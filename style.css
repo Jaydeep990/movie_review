@@ -1,0 +1,13 @@
+.carousel{
+    overflow: hidden !important;
+}
+body{
+    background-color: #1d1d1d;
+}
+.my-btn{
+    padding: 10px 20px;
+    outline: none;
+    border: 3px solid whitesmoke;
+    background: transparent;
+    color: white;
+}
